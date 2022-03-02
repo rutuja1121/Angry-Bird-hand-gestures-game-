@@ -19,7 +19,7 @@ Features included:
 ## Tech stack
 <table>
 <tr>
-    <td><img src = "https://google.github.io/mediapipe/images/logo_horizontal_color.png" alt="Mediapipe" width="50" height="200"></td>
+    <td><img src = "https://google.github.io/mediapipe/images/logo_horizontal_color.png" alt="Mediapipe" width="200" height="50"></td>
     <td>Mediapipe</td>
   </tr>  
 </table>
