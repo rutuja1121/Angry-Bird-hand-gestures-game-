@@ -19,14 +19,14 @@ Features included:
 ## Tech stack
 <table>
 <tr>
-    <td><img src = "https://google.github.io/mediapipe/images/logo_horizontal_color.png" alt="Mediapipe" width="50" height="50"></td>
+    <td><img src = "https://google.github.io/mediapipe/images/logo_horizontal_color.png" alt="Mediapipe" width="50" height="200"></td>
     <td>Mediapipe</td>
   </tr>  
 </table>
 
 <table>
 <tr>
-    <td><img src = "https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" width="50" height="50"></td>
+    <td><img src = "https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" width="200" height="50"></td>
     <td>Python</td>
   </tr>  
 </table>
